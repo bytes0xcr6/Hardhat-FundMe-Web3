@@ -113,6 +113,3 @@ yarn lint:fix
 ```
 yarn format
 ```
-
-
-# Thank you!
